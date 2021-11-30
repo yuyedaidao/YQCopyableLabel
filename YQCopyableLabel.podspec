@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'YQCopyableLabel'
 
-  s.homepage         = 'https://gitee.com/iqilu/YQCopyableLabel'
+  s.homepage         = 'https://github.com/yuyedaidao/YQCopyableLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'WYQ' => 'wyqpadding@gmail.com' }
-  s.source           = { :git => 'https://gitee.com/iqilu/YQCopyableLabel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yuyedaidao/YQCopyableLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
