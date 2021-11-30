@@ -1,0 +1,19 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://gitee.com/padding/YQPods.git'
+
+use_frameworks!
+platform :ios, '10.0'
+
+target 'YQCopyableLabel_Example' do
+  pod 'YQCopyableLabel', :path => '../'
+
+  #pod 'Moya/RxSwift'
+  #pod 'SnapKit'
+  #pod 'RxDataSources'
+
+  target 'YQCopyableLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

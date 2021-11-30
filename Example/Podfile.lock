@@ -1,0 +1,16 @@
+PODS:
+  - YQCopyableLabel (0.1.0)
+
+DEPENDENCIES:
+  - YQCopyableLabel (from `../`)
+
+EXTERNAL SOURCES:
+  YQCopyableLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YQCopyableLabel: d32dbea37bdb4e83c782035c55dcdbf235344bf2
+
+PODFILE CHECKSUM: ef5eb55e990c21f869bf98936ec36b7795cb9a43
+
+COCOAPODS: 1.11.2
